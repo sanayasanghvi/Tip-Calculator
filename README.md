@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
 
 I included a text field wherein people can directly input the number of people paying the bill, and the application splits up the total bill (including the tip) between the number of people entered and displays the amount each person has to pay.
 
